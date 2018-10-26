@@ -1,0 +1,60 @@
+body{
+  background-color: #D2B6DF
+}
+
+.h1{
+  color:white;
+  margin:center;
+  text-align: center;
+
+}
+
+.p1{
+
+  font-size: 30px;
+}
+
+.ul {
+  color:#6D006D;
+  position: absolute;
+  top: 80px;
+  right: 0;
+  width: 200px;
+  height: 100px;
+  border: 3px solid #313B74
+
+}
+
+.ol {
+  color:#6D006D;
+  position: relative;
+  top: 160px;
+  left:1650px;
+  width: 200px;
+  height: 100px;
+  border: 3px solid #313B74
+}
+
+.h2 {
+  text-transform:capitalize;
+}
+
+.munchkincat, .siamesecat {
+  border:5px solid;
+}
+
+
+.p2{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.p3 {
+  color:blue;
+  position:fixed;
+  bottom:50px;
+  right:100px;
+}
+
+.ul2 li{
+  color: #1E486D
+}
